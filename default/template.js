@@ -65,7 +65,7 @@ exports.template = function( grunt, init, done ) {
 			"postcss-cssnext": "^2.5.1",
 			"postcss-flexboxfixer": "^0.0.4",
 			"postcss-gradientfixer": "^0.0.5",
-		    "lootstrap": "github:lukehler/lootstrap",
+			"lootstrap": "github:lukehler/lootstrap"
 		};
 		// And set up dependencies for running it.
 		var dependencies = {
